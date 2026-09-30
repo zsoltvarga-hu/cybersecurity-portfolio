@@ -1,24 +1,13 @@
-# Hi, I'm Zsolt 👋
+# Cybersecurity Portfolio
 
-I'm transitioning into cybersecurity with a focus on Governance, Risk and Compliance (GRC), IT Audit, and Identity and Access Management (IAM).
+This repository contains my cybersecurity portfolio as I transition into the field and build practical skills through hands-on projects and the Google Cybersecurity Professional Certificate.
 
-I'm currently completing the Google Cybersecurity Professional Certificate and building practical skills in security fundamentals, risk management, security frameworks, access control, Linux, SQL, SIEM, and incident response.
+## Portfolio Projects
 
-## Current Focus
-
-- Governance, Risk and Compliance (GRC)
-- IT Audit
-- Identity and Access Management (IAM)
-- Security Compliance
-- Information Security
-
-## Learning
-
-- Google Cybersecurity Professional Certificate
-- CompTIA Security+ — planned
-
-## Portfolio
-
-You can find my cybersecurity projects here:
-
-[Cybersecurity Portfolio](https://github.com/zsoltvarga-hu/cybersecurity-portfolio)
+- [Professional Statement](professional-statement.md)
+- Security Audit — coming soon
+- Risk Assessment — coming soon
+- IAM and Access Control Exercises — coming soon
+- Network Security Analysis — coming soon
+- Linux and SQL Exercises — coming soon
+- Incident Response Documentation — coming soon
